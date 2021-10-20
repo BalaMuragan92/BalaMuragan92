@@ -1,5 +1,5 @@
 ### Hi there, this is Balamuragan 👋
-- 🔭 I’m currently working on ... AWS Cloud Devops Engineering
+- 🔭 I’m currently working as ... AWS Cloud Devops Engineering
 - 🌱 I’m currently learning ... Terraform , Kubernetes
 - 💬 Ask me about ... Devops Tools and Technologies
 - 📫 How to reach me: ... linkedin: https://www.linkedin.com/in/balamuragan/
